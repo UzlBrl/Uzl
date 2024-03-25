@@ -1,1 +1,16 @@
-# Uzl
+# What the project does?
+This webpage aims to guide users to various destinations in Nepal, along with brief descriptions and links for more information with the assistance of the added slider. The slider dynamically showcases images and descriptions of various destinations in Nepal, providing users with an immersive browsing experience. The smooth scroll functionality seamlessly transitions users to the footer section when clicking the "Info" link in the navigation bar. The button ‘LEARN MORE’ will direct the user to the Wikipedia page of the shown destination. Additionally, there are other links attached in the navigation bar, such as "Contacts," and a "SUBSCRIBE" button.
+Below the main carousel, thumbnail previews of featured destinations provide users with a quick glimpse of each destination. As users navigate through the carousel, content within each slide is gracefully revealed through animation, enhancing the browsing experience with an elegant touch. These smooth transitions of text elements not only elevate the visual appeal of the webpage but also increase user engagement. Moreover, when users click on the slider, the images scale up, creating an illusion that the image from the thumbnail has expanded. 
+
+# Why the project is useful?
+The significance of this project lies in the uniqueness of the interactive and visually appealing way to learn about diverse corners in Nepal. It allows users to view the slider and proceed with compelling images and descriptions of the destinations. Furthermore, users are provided with outbound links that lead them to additional information or resources, thereby reinforcing their learning experience. Altogether, the portal fulfills the role of a user-centric and handy tool, enabling users to immerse themselves in a variety of cultural and natural amenities provided by Nepal's destinations.
+
+# How users can get started with the project?
+Users can get started with the project by simply opening the HTML file in a web browser. They can then use the navigation links in the header to explore different sections of the webpage, interact with the slider to view destination images and descriptions, and click on the buttons within the carousel to learn more about each destination.
+
+# Where users can get help with your project?
+Users can get help with the project by referring to this documentation or from the comments added within the HTML, CSS, and JavaScript files. Additionally, they can seek assistance from online communities, forums, or tutorials related to web development and design if they encounter any difficulties or have specific questions.
+
+#Who maintains and contributes to the project?
+In a traditional setting, web projects like this would usually be maintained by a team of developers, designers, and content creators who work together to update and enhance the website's functionality, content, and design as needed. However, since this project is a solo assessment, I'll be taking on those responsibilities and contributing to the best of my ability.
+To wrap things up, I'd like to give a shoutout to the YouTube channel 'Lun Dev Code', which provided invaluable guidance on how to develop web projects like this one. Their tutorials showed me the ropes and helped me understand the process better. Additionally, I want to express my gratitude to ChatGPT for its crucial assistance during the debugging phase. ChatGPT not only helped me identify and fix errors but also suggested codes to implement in my webpage, making the development process smoother.
